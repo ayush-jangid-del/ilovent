@@ -1,0 +1,16 @@
+/* Sidebar nav link default */
+.nav-link {
+  color: #555;
+}
+
+/* ✅ Active menu item */
+.nav-link.active {
+  color: rgb(48, 3, 151) !important;
+  background-color: #f0f0f0; /* optional */
+  font-weight: 700;
+}
+
+/* Hover effect (optional) */
+.nav-link:hover {
+  color: rgb(0, 0, 0);
+}
